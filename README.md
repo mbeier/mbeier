@@ -2,7 +2,7 @@
 I am researching machine learning for and with dynamical systems and control.
 
 My current work is on
-- operator-based methods, ie. representations
+- operator-based methods, i.p., their representations
 - algorithms with performance guarantees
 - efficient sequence modeling and accurate forecasting.
 
